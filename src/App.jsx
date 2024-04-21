@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <div>
+      <div className="bg-amber-50">
         <Header/>
         <Body/>
         <Footer/>
